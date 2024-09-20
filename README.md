@@ -1,17 +1,28 @@
 
-Te doy la bienvenida al perfil de un furro que le gusta hacer add-on's para Minecraft Bedrock. Pasala chido!
+# ¡Bienvenido a mi Perfil!
+
+### Aqui encontraras tanto proyectos estudiantiles, repositorios personales y trabajo comisionado/pagado de libre uso
+
 =============================
 
-❥ ENG/ESP
+¡Hola Soy Ha o HaJuegos! Bienvenido a mi perfil de GitHub donde encontraras repositorios principalmente personales, estudiantiles y proyectos.
+A continuacion te dire algunas cosas sobre mi:
 
-❥ Hago comisiones en [Ko-Fi](https://ko-fi.com/hajuegos0710) o en [Discord](http://discord.com/users/1065525532197916722) por si gustas tener un add-on de parte mia :3
+❥ ENG/ESP.
 
-❥ Tengo tantos proyectos en mente que la lista seria interminable, pero te invito a pasar a mirar [todo de mi perfil de GitHub](https://github.com/HaJuegos?tab=repositories)
+❥ Hago comisiones/trabajo independiente por medio de la pagina [Ko-Fi](https://ko-fi.com/hajuegos0710). Principalmente para Add-ons para Minecraft Be. Tambien tengo un [Discord](http://discord.com/users/1065525532197916722) por si prefieres mejor hablarme por privado
 
-❥ Aun aprendiendo de JavaScript 🔧🐈
+❥ Por el momento tengo conocimiento de: JavaScript/TypeScript, MySQL, Java, HTML y CSS. Sigo aprendiendo Frameworks como React y Laravel, tambien sobre PHP.
 
+❥ Tengo 19 años, Soy de Colombia y actualmente sigo estudiando :3
 
-### Mucha chingadera donde puedes encontrarme
+❥ Me gusta mucho aprender sobre Software en general.
+
+❥ LLevo ya unos 7/8 años trabajando y aprendiendo JavaScript con una [API](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/?view=minecraft-bedrock-experimental) proporcionada por [Mojang Studios](https://github.com/Mojang).
+
+=============================
+
+### Redes Sociales donde puedes encontrarme:
 
 <p align="left"> 
   <a href="https://discord.com/users/714622708649951272" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt='Mi Discord Personal' /></a>
@@ -25,8 +36,12 @@ Te doy la bienvenida al perfil de un furro que le gusta hacer add-on's para Mine
   <a href="https://www.twitch.tv/hajuegoscatto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitch.svg" width="32" height="32" alt='Twitch' /></a>
 </p>
 
-
 ### ¡Comisioname aqui!
+
 <a href='https://ko-fi.com/T6T7ANY6Q' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='¡Comprame un Cafesito!' /></a>
 
-Ten Hermoso Dia/Tarde/Noche <3
+**Ten Hermoso Dia/Tarde/Noche <3**
+
+### Musica de que me gusta:
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x8oe83trz934qibdoaalszk9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=x8oe83trz934qibdoaalszk9s&redirect=true)
