@@ -26,7 +26,7 @@ I'm learning frameworks like React and Laravel, and also exploring PHP.
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaJuegos&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJuegos&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaJuegos&layout=compact)
 
