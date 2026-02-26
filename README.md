@@ -18,16 +18,16 @@ Informacion sobre mi:
 ---
 
 ### Estadisticas de GitHub
-
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HaJuegos&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HaJuegos&layout=compact)
 
 ---
 
-### Socials
-
+### Redes donde encontrarme
 <p align="left">
+  <a href="https://t.me/hajuegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Mi Telegram" /></a>
+  <a href="https://t.me/thecatclubha" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="Mi Grupo de Telegram" /></a>
   <a href="https://twitter.com/Ha_Juegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Mi twitter" /></a>
   <a href="https://www.tiktok.com/@hajuegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938074.png" width="32" height="32" alt="Mi tiktok" /></a>
   <a href="https://www.youtube.com/channel/UCvuaxUzlotxb-n_cH3KAQww" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Mi Youtube" /></a>
