@@ -1,71 +1,39 @@
-# Welcome to My Profile!
+# ¡Hola! Un gusto soy Ha o Ha Juegos
 
-### Here you’ll find student projects, personal repositories, and open commissioned/paid work.
+### Sientete bienvenido a mi perfil de GitHub, donde subo principalmente proyectos que he creado, apoyado o he querido subir a mi perfil.
+
+---
+Informacion sobre mi:
+
+❥ Hablo principalmente español, pero puedo entender ingles.
+
+❥ Acepto comisiones o donaciones por medio de [Ko-Fi](https://ko-fi.com/hajuegos0710) o [Fiverr](https://es.fiverr.com/s/Q7zqlwj), enfocado principalmente a los addons para Minecraft Bedrock.
+
+❥ Tambien me enfoco en el desarrollo web fullstack, enfocado en PHP y varios framworks, con bastante experiencia. Con historial laboral, si quieres mas informacion, contactame.
+
+❥ Tengo 21 años, soy de Colombia y actualmente estoy estudiando y/o trabajando.
+
+❥ Me gusta aprender en general sobre desarrollo y creacion de aplicaciones o contenido. Llevo aproximadamente unos 6 o 7 años en el desarrollo de addons casuales, con mi propio ritmo para mi propio gusto o pagados y 3 años en el desarrollo web y/o aplicaciones serias.
 
 ---
 
-Hi! I’m Ha (also known as HaJuegos), welcome to my GitHub profile! Here you’ll find mostly personal, educational, and collaborative projects.
+### Estadisticas de GitHub
 
-Here are a few things about me:
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HaJuegos&show_icons=true&theme=radical)
 
-❥ ENG/ESP bilingual.
-
-❥ I do commissions/freelance work through [Ko-Fi](https://ko-fi.com/hajuegos0710) or [Fiverr](https://es.fiverr.com/s/Q7zqlwj), mostly focused on Minecraft Bedrock add-ons.  
-You can also reach me privately on [Discord](http://discord.com/users/1065525532197916722).
-
-❥ I currently have knowledge in: JavaScript/TypeScript, MySQL, Java, HTML, and CSS.  
-I'm learning frameworks like React and Laravel, and also exploring PHP.
-
-❥ I’m 21 years old, from Colombia, and still studying :3
-
-❥ I love learning about software and development in general.
-
-❥ I've been working with JavaScript for around 7–8 years using the [Minecraft Bedrock Script API](https://learn.microsoft.com/en-us/minecraft/creator/scriptapi/?view=minecraft-bedrock-experimental) by [Mojang Studios](https://github.com/Mojang).
-
----
-
-### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaJuegos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaJuegos&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HaJuegos&layout=compact)
 
 ---
 
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/714622708649951272" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt="Personal Discord" /></a>
-  <a href="https://discord.gg/WH9KpNWXUz" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt="Add-ons Server" /></a>
-  <a href="https://discord.gg/9jZHkhu86P" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt="Community Server" /></a>
-  <a href="https://twitter.com/Ha_Juegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Main Twitter" /></a>
-  <a href="https://twitter.com/the_stupid_cat_" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Personal Twitter" /></a>
-  <a href="https://www.tiktok.com/@hajuegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938074.png" width="32" height="32" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/channel/UCvuaxUzlotxb-n_cH3KAQww" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Main YouTube" /></a>
-  <a href="https://www.youtube.com/channel/UC3Pf0q4_x0KNbceMAJALpAQ" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Secondary YouTube" /></a>
-  <a href="https://www.twitch.tv/hajuegoscatto" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" /></a>
+  <a href="https://twitter.com/Ha_Juegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Mi twitter" /></a>
+  <a href="https://www.tiktok.com/@hajuegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938074.png" width="32" height="32" alt="Mi tiktok" /></a>
+  <a href="https://www.youtube.com/channel/UCvuaxUzlotxb-n_cH3KAQww" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Mi Youtube" /></a>
+  <a href="https://www.twitch.tv/hajuegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Mi Twitch" /></a>
 </p>
 
 ---
 
-### ☕ Commission Me!
-
-<p align="left">
-  <a href="https://ko-fi.com/T6T7ANY6Q" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://es.fiverr.com/s/Q7zqlwj" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-</p>
-
----
-
-### 🎧 Music I Like
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=x8oe83trz934qibdoaalszk9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=x8oe83trz934qibdoaalszk9s&redirect=true)
-
----
-
-**Have a wonderful Day/Night <3**
+**Eso es todo, gracias por leer y ten bonito dia <3**
