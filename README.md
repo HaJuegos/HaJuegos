@@ -31,7 +31,7 @@ Informacion sobre mi:
   <a href="https://twitter.com/Ha_Juegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Mi twitter" /></a>
   <a href="https://www.youtube.com/channel/UCvuaxUzlotxb-n_cH3KAQww" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="Mi Youtube" /></a>
   <a href="https://www.twitch.tv/hajuegos" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Mi Twitch" /></a>
-  <a href="https://www.instagram.com/ha_juegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" alt="Mi Twitch" /></a>
+  <a href="https://www.instagram.com/ha_juegos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="32" height="32" alt="Mi Instagram" /></a>
 </p>
 
 ---
