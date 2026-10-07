@@ -11,7 +11,7 @@ Informacion sobre mi:
 
 ❥ Tambien me enfoco en el desarrollo web fullstack, enfocado en PHP y varios framworks, con bastante experiencia. Con historial laboral, si quieres mas informacion, contactame.
 
-❥ Tengo 21 años, soy de Colombia y actualmente estoy estudiando y/o trabajando.
+❥ Tengo 22 años, soy de Colombia y actualmente estoy estudiando y/o trabajando.
 
 ❥ Me gusta aprender en general sobre desarrollo y creacion de aplicaciones o contenido. Llevo aproximadamente unos 6 o 7 años en el desarrollo de addons casuales, con mi propio ritmo para mi propio gusto o pagados y 3 años en el desarrollo web y/o aplicaciones serias.
 
